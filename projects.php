@@ -24,7 +24,7 @@
                     die("Connection failed: " . $connection->connect_error);
                 }
                 ?>
-                <a href="index.php">Portfolio</a>
+                <a href="index.php">costaTech</a>
             </div>
             <ul class="nav-links">
                 <li><a href="index.php">Home</a></li>

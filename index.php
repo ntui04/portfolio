@@ -10,7 +10,7 @@
     <nav>
         <div class="nav-content">
             <div class="logo">
-                <a href="index.php">Portfolio</a>
+                <a href="index.php">costaTech</a>
             </div>
             <ul class="nav-links">
                 <li><a href="index.php" class="active">Home</a></li>

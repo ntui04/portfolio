@@ -50,7 +50,7 @@
     <nav>
         <div class="nav-content">
             <div class="logo">
-                <a href="index.php">Portfolio</a>
+                <a href="index.php">costaTech</a>
             </div>
             <ul class="nav-links">
                 <li><a href="index.php">Home</a></li>
@@ -70,7 +70,7 @@
                     <!-- Profile Photo -->
                     <!-- <img src="images/logo.png" alt="Your Photo" class="profile-photo"> -->
                     <p>
-                        Hello! My name is [Your Name], and I am a professional phone repair technician with over [X years] of experience in diagnosing and repairing mobile devices. 
+                        Hello! My name is COSTANTINE CLEMENT,I am a professional phone repair technician with over 5 years of experience in diagnosing and repairing mobile devices. 
                         I specialize in delivering high-quality repair services for a wide range of smartphones, tablets, and other handheld devices.
                     </p>
                     <p>
@@ -108,6 +108,8 @@
                         <img src="images/images.jpeg" alt="Diagnostic Tools" class="gallery-image">
                         <img src="images/Untitled8.jpeg" alt="Soldering Workstation" class="gallery-image">
                         <img src="images/Untitledmn.jpeg" alt="Battery Replacement" class="gallery-image">
+                        <img src="images/Untitleiujd.jpeg" alt="Battery Replacement" class="gallery-image">
+                        <img src="images/Untitled.jpeg" alt="Battery Replacement" class="gallery-image">
                     </div>
                 </div>
             </div>
