@@ -1,12 +1,3 @@
-// Add smooth scrolling for navigation links
-document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-    anchor.addEventListener('click', function (e) {
-        e.preventDefault();
-        document.querySelector(this.getAttribute('href')).scrollIntoView({
-            behavior: 'smooth'
-        });
-    });
-});
 
 // Contact form handling
 document.getElementById('contact-form').addEventListener('submit', handleSubmit);
@@ -27,11 +18,3 @@ function handleSubmit(event) {
     
     return false;
 }
-
-// Add active class to current navigation item
-const currentPage = window.location.pathname.split('/').pop();
-document.querySelectorAll('.nav-links a').forEach(link => {
-    if (link.getAttribute('href') === currentPage) {
-        link.classList.add('active');
-    }
-});
